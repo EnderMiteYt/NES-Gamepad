@@ -1,1 +1,1 @@
-# NES-Gamepad
+Это копия геймпада NES (Nintendo Entertaimnet System)
